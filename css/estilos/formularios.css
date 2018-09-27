@@ -1,0 +1,16 @@
+.steps{
+	display: none;
+}
+#enviarForm{
+	/*display: none;*/
+}
+.filas{
+	padding: 5px;
+}
+.filas:nth-child(odd){
+	background-color: #D8D8D8;
+}
+.linea-fondo{
+	border-bottom: 1px solid #ccc;
+	margin-bottom: 20px;
+}

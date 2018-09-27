@@ -1,0 +1,47 @@
+<?php
+  echo "Numero control:".$_POST['numeroControl']."<br>".
+        "Nombre:".$_POST['nombre']."<br>".
+        "apPaterno:".$_POST['apPaterno']."<br>".
+        "apMaterno:".$_POST['apMaterno']."<br>".
+        "apPaterno:".$_POST['apPaterno']."<br>".
+        "fechaNacimiento:".$_POST['fechaNacimiento']."<br>".
+        "curp:".$_POST['curp']."<br>".
+        "rdSexo:".$_POST['rdSexo']."<br>".
+        "rdEstadoCivil:".$_POST['rdEstadoCivil']."<br>".
+        "calle:".$_POST['calle']."<br>".
+        "numeroCasa:".$_POST['numeroCasa']."<br>".
+        "colonia:".$_POST['colonia']."<br>".
+        "CP:".$_POST['CP']."<br>".
+        "ciudad:".$_POST['ciudad']."<br>".
+        "municipio:".$_POST['municipio']."<br>".
+        "estado:".$_POST['estado']."<br>".
+        "celular:".$_POST['celular']."<br>".
+        "correo:".$_POST['correo']."<br>".
+        "telCasa:".$_POST['telCasa']."<br>".
+        "slCarreraEgreso:".$_POST['slCarreraEgreso']."<br>".
+        "fechaEgreso:".$_POST['fechaEgreso']."<br>".
+        "rdTitulado:".$_POST['rdTitulado']."<br>".
+        "ingles:".$_POST['ingles']."<br>".
+        "slOtroIdioma:".$_POST['slOtroIdioma']."<br>".
+        "otroIdiomaPorcen:".$_POST['otroIdiomaPorcen']."<br>".
+        "paquetesComp:".$_POST['paquetesComp']."<br>".
+        "rdCalidadDocente:".$_POST['rdCalidadDocente']."<br>".
+        "rdPlanEstudio:".$_POST['rdPlanEstudio']."<br>".
+        "rdProyectoInvestigacion:".$_POST['rdProyectoInvestigacion']."<br>".
+        "rdEnfasisInvestigacion:".$_POST['rdEnfasisInvestigacion']."<br>".
+        "rdSatisfacionCondiciones:".$_POST['rdSatisfacionCondiciones']."<br>".
+        "rdExperienciaObtenida:".$_POST['rdExperienciaObtenida']."<br>".
+        "rdActividad:".$_POST['rdActividad']."<br>".
+        " si estudia...rdQueEstudia:".$_POST['rdQueEstudia']."<br>".
+        "si trabaja...rdTiempoTranscurrido:".$_POST['rdTiempoTranscurrido']."<br>".
+        "rdMedioObtenerEmpleo:".$_POST['rdMedioObtenerEmpleo']."<br>".
+        "rdRequisitosContratacion:".$_POST['rdRequisitosContratacion']."<br>".
+        "slOtroIdioma:".$_POST['slOtroIdioma']."<br>".
+        "idiomaHabla:".$_POST['idiomaHabla']."<br>".
+        "idiomaEscribe:".$_POST['idiomaEscribe']."<br>".
+        "idiomaLee:".$_POST['idiomaLee']."<br>".
+        "idiomaEscucha:".$_POST['idiomaEscucha']."<br>".
+        "rdAntiguedadEmpleo:".$_POST['rdAntiguedadEmpleo']."<br>".
+        "anioIngreso:".$_POST['anioIngreso']."<br>".
+  ;
+ ?>
