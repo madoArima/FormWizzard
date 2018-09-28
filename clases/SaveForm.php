@@ -43,5 +43,29 @@
         "idiomaEscucha:".$_POST['idiomaEscucha']."<br>".
         "rdAntiguedadEmpleo:".$_POST['rdAntiguedadEmpleo']."<br>".
         "anioIngreso:".$_POST['anioIngreso']."<br>".
+        "rdSalarioMinimo:".$_POST['rdSalarioMinimo']."<br>".
+        "anioIngreso:".$_POST['anioIngreso']."<br>".
+        "rdJerarquiaTrabajo:".$_POST['rdJerarquiaTrabajo']."<br>".
+        "rdCondicionTrabajo:".$_POST['rdCondicionTrabajo']."<br>".
+        "rdRelacionAreaFormacion:".$_POST['rdRelacionAreaFormacion']."<br>".
+        "rdOrganismo:".$_POST['rdOrganismo']."<br>".
+        "txaGiroPrinEmpresa:".$_POST['txaGiroPrinEmpresa']."<br>".
+        "txRazonSocial:".$_POST['txRazonSocial']."<br>".
+        "calleEmpresa:".$_POST['calleEmpresa']."<br>".
+        "numeroEmpresa:".$_POST['numeroEmpresa']."<br>".
+        "coloniaEmpresa:".$_POST['coloniaEmpresa']."<br>".
+        "cpEmpresa:".$_POST['cpEmpresa']."<br>".
+        "ciudadEmpresa:".$_POST['ciudadEmpresa']."<br>".
+        "municipioEmpresa:".$_POST['municipioEmpresa']."<br>".
+        "estadoEmpresa:".$_POST['estadoEmpresa']."<br>".
+        "telefonoEmpresa:".$_POST['telefonoEmpresa']."<br>".
+        "telExt:".$_POST['telExt']."<br>".
+        "fax:".$_POST['fax']."<br>".
+        "emailEmpresa:".$_POST['emailEmpresa']."<br>".
+        "paginaWebEmpresa:".$_POST['paginaWebEmpresa']."<br>".
+        "rdSectorPrimario:".$_POST['rdSectorPrimario']."<br>".
+        "rdSectorSecundario:".$_POST['rdSectorSecundario']."<br>".
+        "rdSectorTerciario:".$_POST['rdSectorTerciario']."<br>".
+        "rdTamanioEmpresa:".$_POST['rdTamanioEmpresa']."<br>".
   ;
  ?>

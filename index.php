@@ -541,16 +541,16 @@
 								<div class="panel-body">
 									<div class="row">
 								<div class="form-group col-md-3">
-									<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">Menos de 5</label>
+									<label class="radio-inline"><input type="radio" id="rdSalario1" name="rdSalarioMinimo" value="MN5A">Menos de 5</label>
 								</div>
 								<div class="form-group col-md-3">
-									<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">Entre 5 y 7</label>
+									<label class="radio-inline"><input type="radio" id="rdSalario2" name="rdSalarioMinimo" value="E5Y7">Entre 5 y 7</label>
 								</div>
 								<div class="form-group col-md-3">
-									<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">Entre 8 y 10</label>
+									<label class="radio-inline"><input type="radio" id="rdSalario3" name="rdSalarioMinimo" value="8Y10">Entre 8 y 10</label>
 								</div>
 								<div class="form-group col-md-3">
-									<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">Más de 10</label>
+									<label class="radio-inline"><input type="radio" id="rdSalario4" name="rdSalarioMinimo" value="MS10">Más de 10</label>
 								</div>
 
 							</div>
@@ -562,22 +562,22 @@
 								<div class="panel-body">
 									<div class="row">
 										<div class="form-group col-md-4">
-											<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">Tecnico</label>
+											<label class="radio-inline"><input type="radio" id="rdJerarquiaTrabajo1" name="rdJerarquiaTrabajo" value="TECN">Tecnico</label>
 										</div>
 										<div class="form-group col-md-4">
-											<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">Supervisor</label>
+											<label class="radio-inline"><input type="radio" id="rdJerarquiaTrabajo2" name="rdJerarquiaTrabajo" value="SUPE">Supervisor</label>
 										</div>
 										<div class="form-group col-md-4">
-											<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">Jefe de area</label>
+											<label class="radio-inline"><input type="radio" id="rdJerarquiaTrabajo3" name="rdJerarquiaTrabajo" value="JEAR">Jefe de area</label>
 										</div>
 										<div class="form-group col-md-4">
-											<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">Funcionario</label>
+											<label class="radio-inline"><input type="radio" id="rdJerarquiaTrabajo4" name="rdJerarquiaTrabajo" value="FUNC">Funcionario</label>
 										</div>
 										<div class="form-group col-md-4">
-											<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">Directivo</label>
+											<label class="radio-inline"><input type="radio" id="rdJerarquiaTrabajo5" name="rdJerarquiaTrabajo" value="DIRE">Directivo</label>
 										</div>
 										<div class="form-group col-md-4">
-											<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">Empresario</label>
+											<label class="radio-inline"><input type="radio" id="rdJerarquiaTrabajo6" name="rdJerarquiaTrabajo" value="EMPR">Empresario</label>
 										</div>
 
 									</div>
@@ -589,18 +589,18 @@
 								<div class="panel-body">
 									<div class="row">
 										<div class="form-group col-md-4">
-											<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">Base</label>
+											<label class="radio-inline"><input type="radio" id="rdCondicionTrabajo1" name="rdCondicionTrabajo" value="BASE">Base</label>
 										</div>
 										<div class="form-group col-md-4">
-											<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">Eventual</label>
+											<label class="radio-inline"><input type="radio" id="rdCondicionTrabajo2" name="rdCondicionTrabajo" value="EVEN">Eventual</label>
 										</div>
 										<div class="form-group col-md-4">
-											<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">Contrato</label>
+											<label class="radio-inline"><input type="radio" id="rdCondicionTrabajo3" name="rdCondicionTrabajo" value="CONT">Contrato</label>
 										</div>
 										<div class="form-group col-md-6">
 											<div class="input-group">
 												<span class="input-group-addon">
-													<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">Otro</label>
+													<label class="radio-inline"><input type="radio" id="rdCondicionTrabajo4" name="rdCondicionTrabajo" value="OTRO">Otro</label>
 												</span>
 												<input id="otroPorcen" class="form-control" name="otroPorcen" type="tel" placeholder="%" ></input>
 											</div>
@@ -614,22 +614,22 @@
 								<div class="panel-body">
 									<div class="row">
 										<div class="form-group col-md-2">
-											<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">0%</label>
+											<label class="radio-inline"><input type="radio" id="rdRelacionAreaFormacion1" name="rdRelacionAreaFormacion" value="0%">0%</label>
 										</div>
 										<div class="form-group col-md-2">
-											<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">20%</label>
+											<label class="radio-inline"><input type="radio" id="rdRelacionAreaFormacion2" name="rdRelacionAreaFormacion" value="20%">20%</label>
 										</div>
 										<div class="form-group col-md-2">
-											<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">40%</label>
+											<label class="radio-inline"><input type="radio" id="rdRelacionAreaFormacion3" name="rdRelacionAreaFormacion" value="40%">40%</label>
 										</div>
 										<div class="form-group col-md-2">
-											<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">60%</label>
+											<label class="radio-inline"><input type="radio" id="rdRelacionAreaFormacion4" name="rdRelacionAreaFormacion" value="60%">60%</label>
 										</div>
 										<div class="form-group col-md-2">
-											<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">80%</label>
+											<label class="radio-inline"><input type="radio" id="rdRelacionAreaFormacion5" name="rdRelacionAreaFormacion" value="80%">80%</label>
 										</div>
 										<div class="form-group col-md-2">
-											<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">100%</label>
+											<label class="radio-inline"><input type="radio" id="rdRelacionAreaFormacion6" name="rdRelacionAreaFormacion" value="100%">100%</label>
 										</div>
 									</div>
 								</div>
@@ -644,13 +644,13 @@
 											<div class="panel-body panel panel-default">
 												<div class="row">
 													<div class="form-group text-center col-md-4">
-														<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">Publico</label>
+														<label class="radio-inline"><input type="radio" id="rdOrganismo" name="rdOrganismo" value="PUBL" >Publico</label>
 													</div>
 													<div class="form-group text-center col-md-4">
-														<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">privado</label>
+														<label class="radio-inline"><input type="radio" id="rdOrganismo" name="rdOrganismo" value="PRIV" >Primario</label>
 													</div>
 													<div class="form-group text-center col-md-4">
-														<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">Social</label>
+														<label class="radio-inline"><input type="radio" id="rdOrganismo" name="rdOrganismo" value="SOCI" >Social</label>
 													</div>
 
 												</div>
@@ -660,7 +660,7 @@
 												<div class="row">
 													<label class="form-group text-center col-md-6">Giro o actividad principal de la empresa u organismo.</label>
 												<div class="form-group col-md-6">
-													<textarea class="form-control rounded-0" id="exampleFormControlTextarea1" rows="2"></textarea>
+													<textarea class="form-control rounded-0" id="txaGiroPrinEmpresa" name="txaGiroPrinEmpresa" rows="2"></textarea>
 												</div>
 
 												</div>
@@ -670,13 +670,13 @@
 												<div class="row">
 													<label class="form-group text-center col-md-6">Razon Social</label>
 													<div class="form-group col-md-6">
-														<input type="text" name="" class="form-control">
+														<input type="text" name="txRazonSocial" id="txRazonSocial" autocomplete="off" class="form-control">
 													</div>
 												</div>
 											</div>
 
 
-										</div>
+										</div> autocomplete="off"
 									</fieldset>
 
 									<fieldset class="panel panel-default">
@@ -686,19 +686,19 @@
 												<div class="row">
 													<div class="form-group col-md-3">
 														<label for="nombre">Calle</label>
-														<input id="nombre" class="form-control" name="calle" type="text" ></input>
+														<input id="nombre" class="form-control" autocomplete="off" name="calleEmpresa" type="text" ></input>
 													</div>
 													<div class="form-group col-md-3">
 														<label for="apPaterno">Numero</label>
-														<input id="apPaterno" class="form-control" name="apPaterno" type="text" ></input>
+														<input id="apPaterno" class="form-control" autocomplete="off" name="numeroEmpresa" type="text" ></input>
 													</div>
 													<div class="form-group col-md-3">
 														<label for="apMaterno">Colonia</label>
-														<input id="apMaterno" class="form-control" name="apMaterno" type="text" ></input>
+														<input id="apMaterno" class="form-control" autocomplete="off" name="coloniaEmpresa" type="text" ></input>
 													</div>
 													<div class="form-group col-md-3">
 														<label for="apMaterno">CP</label>
-														<input id="apMaterno" class="form-control" name="apMaterno" type="text" ></input>
+														<input id="apMaterno" class="form-control" autocomplete="off" name="cpEmpresa" type="text" ></input>
 													</div>
 												</div>
 											</div>
@@ -706,35 +706,35 @@
 												<div class="row">
 													<div class="form-group col-md-3">
 														<label for="nombre">Ciudad</label>
-														<input id="nombre" class="form-control" name="ciudad" type="text" ></input>
+														<input id="nombre" class="form-control" autocomplete="off" name="ciudadEmpresa" type="text" ></input>
 													</div>
 													<div class="form-group col-md-3">
 														<label for="apPaterno">Municipio</label>
-														<input id="apPaterno" class="form-control" name="apPaterno" type="text" ></input>
+														<input id="apPaterno" class="form-control" autocomplete="off" name="municipioEmpresa" type="text" ></input>
 													</div>
 													<div class="form-group col-md-3">
 														<label for="apMaterno">Estado</label>
-														<input id="apMaterno" class="form-control" name="apMaterno" type="text" ></input>
+														<input id="apMaterno" class="form-control" autocomplete="off" name="estadoEmpresa" type="text" ></input>
 													</div>
 													<div class="form-group col-md-3">
 														<label for="apMaterno">Telefono</label>
-														<input id="apMaterno" class="form-control" name="apMaterno" type="text" ></input>
+														<input id="apMaterno" class="form-control" autocomplete="off" name="telefonoEmpresa" type="text" ></input>
 													</div>
 													<div class="form-group col-md-3">
 														<label for="nombre">Tel y Ext</label>
-														<input id="nombre" class="form-control" name="telExt" type="text" ></input>
+														<input id="nombre" class="form-control" autocomplete="off" name="telExt" type="text" ></input>
 													</div>
 													<div class="form-group col-md-3">
 														<label for="apPaterno">Fax</label>
-														<input id="apPaterno" class="form-control" name="apPaterno" type="text" ></input>
+														<input id="apPaterno" class="form-control" autocomplete="off" name="fax" type="text" ></input>
 													</div>
 													<div class="form-group col-md-3">
 														<label for="apMaterno">Email</label>
-														<input id="apMaterno" class="form-control" name="apMaterno" type="text" ></input>
+														<input id="apMaterno" class="form-control" autocomplete="off" name="emailEmpresa" type="text" ></input>
 													</div>
 													<div class="form-group col-md-3">
 														<label for="apMaterno">Pagina Web</label>
-														<input id="apMaterno" class="form-control" name="apMaterno" type="text" ></input>
+														<input id="apMaterno" class="form-control" autocomplete="off" name="paginaWebEmpresa" type="text" ></input>
 													</div>
 												</div>
 											</div>
@@ -747,30 +747,30 @@
 											<div class="row filas">
 													<label class="col-md-4">SECTOR PRIMARIO</label>
 													<div class="col-md-6">
-														<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">Agroindustria</label>
-														<label class="radio-inline"><input type="radio" id="rb_Calidad_Docentes_2" name="Calidad_Docentes" value="B" ="Falta la pregunta 1">Pesquero</label>
-														<label class="radio-inline"><input type="radio" id="rb_Calidad_Docentes_3" name="Calidad_Docentes" value="R" ="Falta la pregunta 1">Minero</label>
-														<label class="radio-inline"><input type="radio" id="rb_Calidad_Docentes_4" name="Calidad_Docentes" value="M" ="Falta la pregunta 1">Otros</label>
+														<label class="radio-inline"><input type="radio" id="rdSectorPrimario1" name="rdSectorPrimario" value="AGRO">Agroindustria</label>
+														<label class="radio-inline"><input type="radio" id="rdSectorPrimario2" name="rdSectorPrimario" value="PESQ">Pesquero</label>
+														<label class="radio-inline"><input type="radio" id="rdSectorPrimario3" name="rdSectorPrimario" value="MINE">Minero</label>
+														<label class="radio-inline"><input type="radio" id="rdSectorPrimario4" name="rdSectorPrimario" value="OTRO">Otros</label>
 													</div>
 											</div>
 
 											<div class="row filas">
 													<label class="col-md-4">SECUNDARIO</label>
 													<div class="col-md-6">
-														<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">Industrial</label>
-														<label class="radio-inline"><input type="radio" id="rb_Calidad_Docentes_2" name="Calidad_Docentes" value="B" ="Falta la pregunta 1">Construccion </label>
-														<label class="radio-inline"><input type="radio" id="rb_Calidad_Docentes_3" name="Calidad_Docentes" value="R" ="Falta la pregunta 1">Petroleo</label>
-														<label class="radio-inline"><input type="radio" id="rb_Calidad_Docentes_4" name="Calidad_Docentes" value="M" ="Falta la pregunta 1">Otros</label>
+														<label class="radio-inline"><input type="radio" id="rdSectorSecundario1" name="rdSectorSecundario" value="INDU">Industrial</label>
+														<label class="radio-inline"><input type="radio" id="rdSectorSecundario2" name="rdSectorSecundario" value="CONS">Construccion </label>
+														<label class="radio-inline"><input type="radio" id="rdSectorSecundario3" name="rdSectorSecundario" value="PETR">Petroleo</label>
+														<label class="radio-inline"><input type="radio" id="rdSectorSecundario4" name="rdSectorSecundario" value="OTRO">Otros</label>
 													</div>
 											</div>
 
 											<div class="row filas">
 													<label class="col-md-4">SECTOR TERCIARIO</label>
 													<div class="col-md-6">
-														<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">Educativo</label>
-														<label class="radio-inline"><input type="radio" id="rb_Calidad_Docentes_2" name="Calidad_Docentes" value="B" ="Falta la pregunta 1">Turismo</label>
-														<label class="radio-inline"><input type="radio" id="rb_Calidad_Docentes_3" name="Calidad_Docentes" value="R" ="Falta la pregunta 1">Comercio</label>
-														<label class="radio-inline"><input type="radio" id="rb_Calidad_Docentes_4" name="Calidad_Docentes" value="M" ="Falta la pregunta 1">Otros</label>
+														<label class="radio-inline"><input type="radio" id="rdSectorTerciario1" name="rdSectorTerciario" value="EDUC">Educativo</label>
+														<label class="radio-inline"><input type="radio" id="rdSectorTerciario2" name="rdSectorTerciario" value="TURI">Turismo</label>
+														<label class="radio-inline"><input type="radio" id="rdSectorTerciario3" name="rdSectorTerciario" value="COME">Comercio</label>
+														<label class="radio-inline"><input type="radio" id="rdSectorTerciario4" name="rdSectorTerciario" value="OTRO">Otros</label>
 													</div>
 											</div>
 
@@ -784,33 +784,20 @@
 										<div class="panel-body">
 											<div class="row">
 													<div class="form-group text-center col-md-3">
-														<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">MicroEmpresa(1-30)</label>
+														<label class="radio-inline"><input type="radio" id="rdTamanioEmpresa1" name="rdTamanioEmpresa" value="MICR">MicroEmpresa(1-30)</label>
 													</div>
 													<div class="form-group text-center col-md-3">
-														<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">Pequeña(31-100)</label>
+														<label class="radio-inline"><input type="radio" id="rdTamanioEmpresa2" name="rdTamanioEmpresa" value="PEQU">Pequeña(31-100)</label>
 													</div>
 													<div class="form-group text-center col-md-3">
-														<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">Mediana(101-500)</label>
+														<label class="radio-inline"><input type="radio" id="rdTamanioEmpresa3" name="rdTamanioEmpresa" value="MEDI">Mediana(101-500)</label>
 													</div>
 													<div class="form-group text-center col-md-3">
-														<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="MB" ="Falta la pregunta 1">Grande(500+)</label>
+														<label class="radio-inline"><input type="radio" id="rdTamanioEmpresa4" name="rdTamanioEmpresa" value="GRAN">Grande(500+)</label>
 													</div>
 											</div>
 										</div>
 									</fieldset>
-
-									<fieldset class="panel panel-default">
-										<legend class="panel-heading"></legend>
-										<div class="panel-body">
-
-										</div>
-									</fieldset>
-
-									<div class="panel-body panel panel-default">
-										<div class="row">
-
-										</div>
-									</div>
 
 								</div>
 							</fieldset>
