@@ -676,7 +676,7 @@
 											</div>
 
 
-										</div> autocomplete="off"
+										</div>
 									</fieldset>
 
 									<fieldset class="panel panel-default">
@@ -818,10 +818,10 @@
 						<div class="panel-body">
 							<div class="row">
 									<div class="form-group text-center col-md-3">
-										<label class="radio-inline"><input type="radio" id="rdMuyEficiente" name="rdEficienciaLaboral" value="MEfi" >Muy Eficiente(</label>
+										<label class="radio-inline"><input type="radio" id="rdMuyEficiente" name="rdEficienciaLaboral" value="MEfi" >Muy Eficiente</label>
 									</div>
 									<div class="form-group text-center col-md-3">
-										<label class="radio-inline"><input type="radio" id="rdEficiente" name="rdEficienciaLaboral" value="EFIC" >Eficiente(</label>
+										<label class="radio-inline"><input type="radio" id="rdEficiente" name="rdEficienciaLaboral" value="EFIC" >Eficiente</label>
 									</div>
 									<div class="form-group text-center col-md-3">
 										<label class="radio-inline"><input type="radio" id="rdPocoEficiente" name="rdEficienciaLaboral" value="PEFI" >Poco Eficiente</label>
@@ -877,11 +877,11 @@
 								<div class="row filas">
 									<label class="col-md-6">1.-Área o campo de estudio.</label>
 									<div class="col-md-6">
-										<label class="radio-inline"><input type="radio" id="rdNameCampoEstudio" name="rdvaloraCampoEstudio" value="1" >Nada</label>
-											<label class="radio-inline"><input type="radio" id="rdPocoCampoEstudio" name="rdvaloraCampoEstudio" value="2" >Poco</label>
-											<label class="radio-inline"><input type="radio" id="rdMedioCampoEstudio" name="rdvaloraCampoEstudio" value="3" >Medio</label>
-											<label class="radio-inline"><input type="radio" id="redMuchoCampoEstudio" name="rdvaloraCampoEstudio" value="4" >Mucho</label>
-											<label class="radio-inline"><input type="radio" id="rdTodoCampoEstudio" name="rdvaloraCampoEstudio" value="5" >Todo</label>
+										<label class="radio-inline"><input type="radio" id="rdNameCampoEstudio" name="rdValoraCampoEstudio" value="1" >Nada</label>
+											<label class="radio-inline"><input type="radio" id="rdPocoCampoEstudio" name="rdValoraCampoEstudio" value="2" >Poco</label>
+											<label class="radio-inline"><input type="radio" id="rdMedioCampoEstudio" name="rdValoraCampoEstudio" value="3" >Medio</label>
+											<label class="radio-inline"><input type="radio" id="redMuchoCampoEstudio" name="rdValoraCampoEstudio" value="4" >Mucho</label>
+											<label class="radio-inline"><input type="radio" id="rdTodoCampoEstudio" name="rdValoraCampoEstudio" value="5" >Todo</label>
 									</div>
 								</div>
 
@@ -942,11 +942,11 @@
 								<div class="row filas">
 										<label class="col-md-6">7.-Recomendaciones/Referencias.</label>
 										<div class="col-md-6">
-											<label class="radio-inline"><input type="radio" id="rb_Calidad_Docntes_1" name="Calidad_Docentes" value="1">Nada</label>
-											<label class="radio-inline"><input type="radio" id="rb_Calidad_Docentes_2" name="Calidad_Docentes" value="1">Poco</label>
-											<label class="radio-inline"><input type="radio" id="rb_Calidad_Docentes_3" name="Calidad_Docentes" value="1">Medio</label>
-											<label class="radio-inline"><input type="radio" id="rb_Calidad_Docentes_4" name="Calidad_Docentes" value="1">Mucho</label>
-											<label class="radio-inline"><input type="radio" id="rb_Calidad_Docentes_4" name="Calidad_Docentes" value="1">Todo</label>
+											<label class="radio-inline"><input type="radio" id="rdReferencias1" name="rdReferencias" value="1">Nada</label>
+											<label class="radio-inline"><input type="radio" id="rdReferencias2" name="rdReferencias" value="1">Poco</label>
+											<label class="radio-inline"><input type="radio" id="rdReferencias3" name="rdReferencias" value="1">Medio</label>
+											<label class="radio-inline"><input type="radio" id="rdReferencias4" name="rdReferencias" value="1">Mucho</label>
+											<label class="radio-inline"><input type="radio" id="rdReferencias5" name="rdReferencias" value="1">Todo</label>
 										</div>
 								</div>
 								<div class="row filas">
@@ -962,21 +962,21 @@
 								<div class="row filas">
 										<label class="col-md-6">9.-Capacidad de liderazgo.</label>
 										<div class="col-md-6">
-											<label class="radio-inline"><input type="radio" id="rdNadaCapacidadLiderazgo" name="rdCapacidadLiderazgo" value="1">Nada</label>
-											<label class="radio-inline"><input type="radio" id="rdPocoCapacidadLiderazgo" name="rdCapacidadLiderazgo" value="2">Poco</label>
-											<label class="radio-inline"><input type="radio" id="rdMedioCapacidadLiderazgo" name="rdCapacidadLiderazgo" value="3">Medio</label>
-											<label class="radio-inline"><input type="radio" id="rdMuchoCapacidadLiderazgo" name="rdCapacidadLiderazgo" value="4">Mucho</label>
-											<label class="radio-inline"><input type="radio" id="rdTodoCapacidadLiderazgo" name="rdCapacidadLiderazgo" value="5">Todo</label>
+											<label class="radio-inline"><input type="radio" id="rdNadaCapacidadLiderazgo1" name="rdCapacidadLiderazgo" value="1">Nada</label>
+											<label class="radio-inline"><input type="radio" id="rdPocoCapacidadLiderazgo2" name="rdCapacidadLiderazgo" value="2">Poco</label>
+											<label class="radio-inline"><input type="radio" id="rdMedioCapacidadLiderazgo3" name="rdCapacidadLiderazgo" value="3">Medio</label>
+											<label class="radio-inline"><input type="radio" id="rdMuchoCapacidadLiderazgo4" name="rdCapacidadLiderazgo" value="4">Mucho</label>
+											<label class="radio-inline"><input type="radio" id="rdTodoCapacidadLiderazgo5" name="rdCapacidadLiderazgo" value="5">Todo</label>
 										</div>
 								</div>
 								<div class="row filas">
 										<label class="col-md-6">10.-Otros</label>
 										<div class="col-md-6">
-											<label class="radio-inline"><input type="radio" id="rdNadaOtrosAspectosValoraEmpresa" name="rdOtrosAspectosValoraEmpresa" value="1">Nada</label>
-											<label class="radio-inline"><input type="radio" id="rdPocoOtrosAspectosValoraEmpresa" name="rdOtrosAspectosValoraEmpresa" value="2">Poco</label>
-											<label class="radio-inline"><input type="radio" id="rdMedioOtrosAspectosValoraEmpresa" name="rdOtrosAspectosValoraEmpresa" value="3">Medio</label>
-											<label class="radio-inline"><input type="radio" id="rdMuchoOtrosAspectosValoraEmpresa" name="rdOtrosAspectosValoraEmpresa" value="4">Mucho</label>
-											<label class="radio-inline"><input type="radio" id="rdTodoOtrosAspectosValoraEmpresa" name="rdOtrosAspectosValoraEmpresa" value="5">Todo</label>
+											<label class="radio-inline"><input type="radio" id="rdNadaOtrosAspectosValoraEmpresa1" name="rdOtrosAspectosValoraEmpresa" value="1">Nada</label>
+											<label class="radio-inline"><input type="radio" id="rdPocoOtrosAspectosValoraEmpresa2" name="rdOtrosAspectosValoraEmpresa" value="2">Poco</label>
+											<label class="radio-inline"><input type="radio" id="rdMedioOtrosAspectosValoraEmpresa3" name="rdOtrosAspectosValoraEmpresa" value="3">Medio</label>
+											<label class="radio-inline"><input type="radio" id="rdMuchoOtrosAspectosValoraEmpresa4" name="rdOtrosAspectosValoraEmpresa" value="4">Mucho</label>
+											<label class="radio-inline"><input type="radio" id="rdTodoOtrosAspectosValoraEmpresa5" name="rdOtrosAspectosValoraEmpresa" value="5">Todo</label>
 										</div>
 								</div>
 							</div>
@@ -1034,7 +1034,7 @@
 									<fieldset class="panel panel-default">
 										<legend class="panel-heading">Vll.-Comentarios y sugerencias.</legend>
 										<div class="panel-body">
-											<textarea class="form-control rounded-0" id="exampleFormControlTextarea1" rows="2" name="ComentariosSugerencias"></textarea>
+											<textarea class="form-control rounded-0" id="exampleFormControlTextarea1" rows="2" name="comentariosSugerencias"></textarea>
 										</div>
 									</fieldset>
 								</div>

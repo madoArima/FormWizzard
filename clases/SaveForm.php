@@ -32,8 +32,8 @@
         "rdSatisfacionCondiciones:".$_POST['rdSatisfacionCondiciones']."<br>".
         "rdExperienciaObtenida:".$_POST['rdExperienciaObtenida']."<br>".
         "rdActividad:".$_POST['rdActividad']."<br>".
-        " si estudia...rdQueEstudia:".$_POST['rdQueEstudia']."<br>".
-        "si trabaja...rdTiempoTranscurrido:".$_POST['rdTiempoTranscurrido']."<br>".
+        "rdQueEstudia:".$_POST['rdQueEstudia']."<br>".
+        "rdTiempoTranscurrido:".$_POST['rdTiempoTranscurrido']."<br>".
         "rdMedioObtenerEmpleo:".$_POST['rdMedioObtenerEmpleo']."<br>".
         "rdRequisitosContratacion:".$_POST['rdRequisitosContratacion']."<br>".
         "slOtroIdioma:".$_POST['slOtroIdioma']."<br>".
@@ -67,5 +67,23 @@
         "rdSectorSecundario:".$_POST['rdSectorSecundario']."<br>".
         "rdSectorTerciario:".$_POST['rdSectorTerciario']."<br>".
         "rdTamanioEmpresa:".$_POST['rdTamanioEmpresa']."<br>".
+        "rdEficienciaLaboral:".$_POST['rdEficienciaLaboral']."<br>".
+        "rdFormacionAcademica:".$_POST['rdFormacionAcademica']."<br>".
+        "rdPracticasProfesionales:".$_POST['rdPracticasProfesionales']."<br>".
+        "rdValoraCampoEstudio:".$_POST['rdValoraCampoEstudio']."<br>".
+        "rdTitulacion:".$_POST['rdTitulacion']."<br>".
+        "rdExperienciaLaboral:".$_POST['rdExperienciaLaboral']."<br>".
+        "rdHabilidadProblemas:".$_POST['rdHabilidadProblemas']."<br>".
+        "rdPosicionInstituto:".$_POST['rdPosicionInstituto']."<br>".
+        "rdReferencias:".$_POST['rdReferencias']."<br>".
+        "rdPersonalidadActitud:".$_POST['rdPersonalidadActitud']."<br>".
+        "rdCapacidadLiderazgo:".$_POST['rdCapacidadLiderazgo']."<br>".
+        "rdOtrosAspectosValoraEmpresa:".$_POST['rdOtrosAspectosValoraEmpresa']."<br>".
+        "rdTomariaCursos:".$_POST['rdTomariaCursos']."<br>".
+        "rdTomariaPostgrado:".$_POST['rdTomariaPostgrado']."<br>".
+        "rdOrganizacionSocial:".$_POST['rdOrganizacionSocial']."<br>".
+        "rdOrganismoProfesionistas:".$_POST['rdOrganismoProfesionistas']."<br>".
+        "rdAsociacionEgresados:".$_POST['rdAsociacionEgresados']."<br>".
+        "comentariosSugerencias:".$_POST['comentariosSugerencias']."<br>"
   ;
  ?>
