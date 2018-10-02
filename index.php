@@ -146,7 +146,7 @@
 							</div>
 							<div class="form-group col-md-4">
 								<label for="correo">Correo Electronico:</label>
-								<input id="correo" class="form-control" autocomplete="off" name="correo" type="email" placeholder="@" ></input>
+								<input id="correo" class="form-control" name="correo" type="email" placeholder="@" ></input>
 							</div>
 							<div class="form-group col-md-4">
 								<label for="telCasa">Tel. Casa:</label>
@@ -470,9 +470,9 @@
 										</div>
 										<div class="form-group col-md-6">
 											<div class="input-group">
-								                <span class="input-group-addon">Otro</span>
-								               <input  class="form-control" id="txOtrosRequisitos" name="slOtroIdioma" type="text" placeholder="Especifique idioma" ></input>
-								            </div>
+					                <span class="input-group-addon">Otro</span>
+					               <input  class="form-control" id="txOtrosRequisitos" name="slOtroIdioma" type="text" placeholder="Especifique idioma" ></input>
+								      </div>
 										</div>
 
 									</div>
