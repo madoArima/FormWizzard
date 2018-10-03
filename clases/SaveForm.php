@@ -84,6 +84,6 @@
         "rdOrganizacionSocial:".$_POST['rdOrganizacionSocial']."<br>".
         "rdOrganismoProfesionistas:".$_POST['rdOrganismoProfesionistas']."<br>".
         "rdAsociacionEgresados:".$_POST['rdAsociacionEgresados']."<br>".
-        "comentariosSugerencias:".$_POST['comentariosSugerencias']."<br>"
+        "comentariosSugerencias:".$_POST['comentariosSugerencias']
   ;
  ?>

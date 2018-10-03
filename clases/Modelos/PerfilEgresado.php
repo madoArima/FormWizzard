@@ -1,0 +1,10 @@
+<?php
+/**
+ *
+ */
+class PerfilEgresado
+{
+
+}
+
+ ?>

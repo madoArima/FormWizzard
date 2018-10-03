@@ -14,6 +14,7 @@
 	</header>
 	<section class="container panel panel-default">
 		<form id="" class="" method="post" action="clases/SaveForm.php">
+
 			<!--***************************PASO 1*************************************************-->
 			<fieldset class="steps">
 				<legend class="panel-heading bg-primary">Cuestionario de seguimiento de egresados</legend>
@@ -811,6 +812,7 @@
 
 			<!--***************************PASO 5**************************************************-->
 			<fieldset class="steps">
+				
 				<legend class="panel-heading bg-primary">4.- Desempeño profesional de los egresados(Coherencia entre la formación y el tipo de empleo).</legend>
 				<div class="panel panel-body">
 					<fieldset class="panel panel-default">

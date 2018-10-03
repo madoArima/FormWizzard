@@ -1,5 +1,5 @@
 //variables de estatus del formulario
-var formPos=0;
+var formPos=4;
 var numeroControlExists=false;
 
 //eventos
